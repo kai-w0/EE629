@@ -1,0 +1,89 @@
+import random
+
+hp = 30
+
+object_ = []
+
+tools = ['torch','rope','spanner','50HP','10HP']
+
+def getInput(prompt,accepted):
+    while True:
+        value = input(prompt).lower()
+        if value in accepted:
+            return value
+        else:
+            print("This is not a recognised answer, must be one of",accepted)
+
+def handleRoom(location):
+    global hp
+
+    if location=='start':
+        print("You are standing on a path at the edge of a jungle. There is a cave to your left and a beach to your right.")
+        object_.append(random.choice(tools))
+        print("Lucky! You have gained",object_[-1])
+        useTools(object_)
+        direction = getInput("Do you want to get left or right?",['left','right'])
+
+        if direction=='left':
+            return 'cave'
+        elif direction=='right':
+            return 'beach'
+
+    elif location=='cave':
+        print("On the entrance of cave, you find a torch!")
+        object_.append('torch')
+        print("You walk to the cave and notice there is an opening.")
+        print("A small snake bites you, you lose 20 health points.")
+        hp-=20
+
+        answer = getInput("Do you want to go deeper?(y/n)",['y','n'])
+        if answer == 'y':
+            return 'deep_cave'
+        elif answer == 'n':
+            return 'start'
+
+    elif location == 'beach':
+        print("You walk to the beach but remember you do not have any swimming equipment!")
+        print("The cold water revitalizes you. You have never felt more alive, gain 70 health points.")
+        hp+=70
+
+        answer = getInput("Do you want to go swimming?(y/n)", ['y', 'n'])
+        if answer == 'y':
+            return 'sea'
+        elif answer == 'n':
+            return 'start'
+
+    elif location == 'sea':
+        print("Suddenly there is a tsunami, you can't escape!")
+        hp = 0
+        return 'end'
+
+    else:
+        print("Error! Room",location,"is unknown.")
+        return 'end'
+
+def useTools(tool):
+    global hp
+    length = len(tool)
+    for i in range(0,length):
+        if tool[i] == '50HP':
+            hp+=50
+            tool.pop(i)
+            print("You have used the tool of 50HP.")
+            i+=1
+        elif tool[i] == '10HP':
+            hp+=10
+            tool.pop(i)
+            print("You have used the tool of 10HP.")
+            i+=1
+
+location = 'start'
+
+while location != 'end':
+    location = handleRoom(location)
+    print("You now have",hp,"health points.")
+    if hp<=0:
+        print("You are dead.\nGame Over!")
+        break
+
+print("Your adventure has ended, bye~")
