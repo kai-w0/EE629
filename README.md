@@ -20,7 +20,7 @@ Weather Reporting System
 
 2020-10-10: Write a easy adverture game and run it on Raspberrypie. Code is in file "weekly try".
 
-2020-10-18：Learn to use HomeAssistant+homebridge to achieve lighting up my table lamp by Siri.
+2020-10-18: Learn to use HomeAssistant+homebridge to achieve lighting up my table lamp by Siri.
 
 2020-10-25: Have already configured HomeAssistant on Raspberrypi.
 
