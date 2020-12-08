@@ -1,4 +1,4 @@
-Project
+Project: Weather Reporting System
 ===
 By the project I want to design a weather reporting system. It can remind you of the weather condition and give you some advice about cloth after you get up every day.
 ## module
