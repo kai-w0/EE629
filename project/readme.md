@@ -12,4 +12,4 @@ pip install baidu-aip
 ```
 to install the module.
 After installing, we need to register a baiduAI account to get key. 
-For weather information, we get it from [weather](http://wthrcdn.etouch.cn/).
+For weather information, we get it from [weather](http://apis.juhe.cn/simpleWeather).
