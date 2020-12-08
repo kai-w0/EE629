@@ -12,5 +12,6 @@ Get my Raspberrypi and complete configuration.
 # Lab 3
 
 # Lab 4
-
+Successfully install Django.
+![Django](https://github.com/kai-w0/EE629/blob/master/Lab/picture/django.png)
 # Lab 5
