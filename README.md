@@ -7,12 +7,19 @@ Weather Reporting System
 ## weekly report
 -----
 2020-09-14: Learn some writing style about IEEE, like parts of a paper, body of a paper.
+
 2020-09-15: Purchase a Raspberrypi and some accessories.
+
 2020-09-18: Have received my Raspberrypi and start learning how to configure it.
+
 2020-09-24: Complete Raspberrypi configuration and note down problems.
+
 2020-09-26: Learn Raspberrypi orders.
-2020-10-04: Learn how to use Pycharm to develop Raspberrypi
+
+2020-10-04: Learn how to use Pycharm to develop Raspberrypi.
+
 2020-10-10: Write a easy adverture game and run it on Raspberrypie. Code is in file "weekly try".
+
 2020-10-18：Learn to use HomeAssistant+homebridge to achieve lighting up my table lamp by Siri. 
 2020-10-25: Have already configured HomeAssistant on Raspberrypi.
 2020-11-01: Successfully configured Homebridge on Raspberrypi.
