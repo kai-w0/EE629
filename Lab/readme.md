@@ -15,3 +15,4 @@ Get my Raspberrypi and complete configuration.
 Successfully install Django.
 ![Django](https://github.com/kai-w0/EE629/blob/master/Lab/picture/django.png)
 # Lab 5
+![docker](https://github.com/kai-w0/EE629/blob/master/Lab/picture/docker.png)
