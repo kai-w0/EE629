@@ -37,3 +37,5 @@ Weather Reporting System
 2020-12-03: Finish lab4a,4b,4c and lab5a. I have bought GPIO and breadboard. After I receive them, I will finish lab2 and lab3. 
 
 2020-12-05: Breadboard and GPIO are received, try to finish lab2 and lab3.
+
+2020-12-09: Finish lab7.
