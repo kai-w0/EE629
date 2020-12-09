@@ -18,4 +18,5 @@ Successfully install Django.
 ![docker](https://github.com/kai-w0/EE629/blob/master/Lab/picture/docker.png)
 ![docker1](https://github.com/kai-w0/EE629/blob/master/Lab/picture/docker1.png)
 # Lab 7
+![mail](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab7.png)
 ![lab](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab7.1.png)
