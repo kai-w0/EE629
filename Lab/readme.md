@@ -8,9 +8,8 @@ Create my GitHub Repository: ()
 Get my Raspberrypi and complete configuration.
 ![configuration](https://github.com/kai-w0/EE629/blob/master/Lab/picture/Raspberrypi.png)
 # Lab 2
-
-# Lab 3
-
+Turn LED up and down.
+![LED](https://github.com/kai-w0/EE629/blob/master/Lab/picture/LED.png)
 # Lab 4
 Successfully install Django.
 ![Django](https://github.com/kai-w0/EE629/blob/master/Lab/picture/django.png)
