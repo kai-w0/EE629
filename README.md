@@ -38,4 +38,4 @@ Weather Reporting System
 
 2020-12-05: Breadboard and GPIO are received, try to finish lab2 and lab3.
 
-2020-12-09: Finish lab7.
+2020-12-09: Finish Lab2 and lab7.
