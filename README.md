@@ -41,3 +41,5 @@ Weather Reporting System
 2020-12-09: Finish Lab2 and lab7.
 
 2020-12-13: Finish Lab8.
+
+2020-12-14: Finish Lab9.
