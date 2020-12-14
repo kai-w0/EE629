@@ -1,9 +1,9 @@
 Labs
 ----
 # Lab 0B
-Create my Google Site: ()
+Create my Google Site: (https://sites.google.com/view/kai-wu-ee629/home)
 # Lab 0C
-Create my GitHub Repository: ()
+Create my GitHub Repository: (https://github.com/kai-w0/EE629)
 # Lab 1
 Get my Raspberrypi and complete configuration.
 ![configuration](https://github.com/kai-w0/EE629/blob/master/Lab/picture/Raspberrypi.png)
