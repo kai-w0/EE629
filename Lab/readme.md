@@ -25,3 +25,7 @@ Successfully install Django.
 ![5](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab8-5.png) ![6](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab8-6.png)
 ![7](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab8-7.png) ![8](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab8-8.png)
 ![9](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab8-9.png) ![10](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab8-10.png)
+![11](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab8-11.png) ![12](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab8-12.png)
+![13](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab8-13.png) ![14](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab8-14.png)
+![15](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab8-15.png) ![16](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab8-16.png)
+![17](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab8-17.png) ![18](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab8-18.png)
