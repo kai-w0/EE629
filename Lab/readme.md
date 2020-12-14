@@ -20,3 +20,4 @@ Successfully install Django.
 ![mail](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab7.png)
 ![lab](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab7.1.png)
 # Lab 8
+![1](https://github.com/kai-w0/EE629/blob/master/Lab/picture/lab8-1.png)
